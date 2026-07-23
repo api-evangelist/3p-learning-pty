@@ -1,0 +1,28 @@
+# 3P Learning
+
+> 3P Learning is an educational technology company that builds blended learning software for mathematics and literacy — including Mathletics, Mathseeds, Reading Eggs, Writing Legends, LiteracyPlanet and Brightpath — used by more than 20 million students across 130+ countries. It is backed by Insight Partners and profiled in the API Evangelist network. 3P Learning publishes consumer and school-facing web and mobile products but does not currently expose a public first-party developer API.
+
+## Products
+- [Mathletics](https://www.3plearning.com/software/mathletics/): Engaging mathematics program for school and home.
+- [Mathseeds](https://www.3plearning.com/software/mathseeds/): Early-years mathematics learning.
+- [Reading Eggs](https://www.3plearning.com/software/reading-eggs/): Learn-to-read program for young children.
+- [Writing Legends](https://www.3plearning.com/software/writing-legends/): Writing practice and feedback.
+- [LiteracyPlanet](https://www.3plearning.com/software/literacyplanet/): Comprehensive literacy program.
+- [Brightpath](https://www.3plearning.com/software/brightpath/): Formative writing assessment.
+
+## Docs
+- [Support / Help Hub](https://support.3plearning.com/): Product help, tech support and webinar schedules.
+- [Teacher Portal](https://portal.3plearning.com/): School/teacher sign-in and dashboards.
+- [Blog](https://www.3plearning.com/blog/): Teaching resources and product news.
+- [FAQ](https://www.3plearning.com/faq/): Frequently asked questions.
+
+## Company
+- [About 3P Learning](https://www.3plearning.com/about-3p/)
+- [Pricing / Request a Quote](https://www.3plearning.com/quote/)
+- [Free Trial](https://www.3plearning.com/free-trial/)
+- [Contact](https://www.3plearning.com/contact/)
+- [Terms & Conditions](https://www.3plearning.com/terms/)
+- [Privacy Policy](https://www.3plearning.com/privacy/)
+
+## Integrations
+- Single sign-on and rostering via school platforms such as Clever and LTI 1.3. No public first-party developer API is documented at this time.

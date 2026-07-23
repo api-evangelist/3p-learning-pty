@@ -1,8 +1,25 @@
 aid: 3p-learning-pty
 name: 3P Learning Pty
-description: '3P Learning Pty is a company surfaced as a portfolio company of insight-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: education. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: '3P Learning is an educational technology company that builds blended learning software
+  for mathematics and literacy used by schools and families worldwide. Its product family includes
+  Mathletics, Mathseeds, Reading Eggs, Writing Legends, LiteracyPlanet and Brightpath, reaching more
+  than 20 million students across 130+ countries. The programs pair interactive student activities with
+  teacher dashboards, reporting and curriculum-aligned content, and integrate into school systems via
+  single sign-on and rostering standards such as Clever and LTI. 3P Learning is backed by Insight Partners
+  and profiled in the API Evangelist network. This company publishes consumer and school-facing web and
+  mobile products but does not expose a public first-party developer API or documented API surface.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.3plearning.com/apple-icon-180x180.png
 url: https://raw.githubusercontent.com/api-evangelist/3p-learning-pty/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -16,6 +33,12 @@ modified: '2026-07-17'
 tags:
 - Company
 - Education
+- EdTech
+- Mathematics
+- Literacy
+- Learning
+- Schools
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +47,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://mathletics.com/
+  url: https://www.3plearning.com/
+- type: SignUp
+  url: https://www.3plearning.com/free-trial/
+- type: Pricing
+  url: https://www.3plearning.com/quote/
+- type: Support
+  url: https://support.3plearning.com/
+- type: Blog
+  url: https://www.3plearning.com/blog/
+- type: TermsOfService
+  url: https://www.3plearning.com/terms/
+- type: PrivacyPolicy
+  url: https://www.3plearning.com/privacy/
+- type: DomainSecurity
+  url: security/3p-learning-pty-domain-security.yml
+- type: LLMsTxt
+  url: llms/3p-learning-pty-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
