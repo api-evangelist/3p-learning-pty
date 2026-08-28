@@ -8,6 +8,17 @@ description: '3P Learning is an educational technology company that builds blend
   single sign-on and rostering standards such as Clever and LTI. 3P Learning is backed by Insight Partners
   and profiled in the API Evangelist network. This company publishes consumer and school-facing web and
   mobile products but does not expose a public first-party developer API or documented API surface.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
